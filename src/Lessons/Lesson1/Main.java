@@ -17,6 +17,7 @@ package Lessons.Lesson1;
 public class Main {
     public static void main(String[] args) {
         FirTree();
+        System.out.println("\n\n******************************\n\n");
         AnotherPicture();
     }
 
