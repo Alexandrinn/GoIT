@@ -1,4 +1,4 @@
-package Lessons.Lesson1;
+package Lessons.Lesson1.Practice1;
 
 
 //Предварительно:
