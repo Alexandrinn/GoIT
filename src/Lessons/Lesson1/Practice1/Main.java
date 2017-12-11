@@ -34,7 +34,7 @@ public class Main {
 //              ||
 //        ---------------
 
-    public static void FirTree () {
+    private static void FirTree () {
         System.out.println("\n       *\n       ^\n      / \\\n     /   \\\n    / | | \\\n   /  | |  \\\n  /   | |   \\\n /    | |    \\\n" +
                 "/     | |     \\\n      | |\n---------------");
     }
@@ -43,7 +43,7 @@ public class Main {
 //        Пусть ваша программа нарисует сложный рисунок в консоль, на ваше усмотрение, что угодно с этого сайта
 //        http://www.messletters.com/en/text-art/
 
-    public static void AnotherPicture () {
+    private static void AnotherPicture () {
         System.out.println("¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n" +
                 "¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶\n" +
                 "¶¶¶¶¶¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶§§§1§§¶¶\n" +
