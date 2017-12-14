@@ -14,7 +14,7 @@ package Lessons.Lesson1.Practice1;
 //    V   4. Добавить .gitignore
 //    V   5. Создайте новый проект в Intellij IDEA в ранее созданной папке.
 
-public class Main {
+public class Lesson1Practice {
     public static void main(String[] args) {
         FirTree();
         System.out.println("\n\n******************************\n\n");
